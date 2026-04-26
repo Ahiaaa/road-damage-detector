@@ -1,4 +1,5 @@
 # Road Damage Detector
+<!-- NOT YET FINAL -->
 
 A Flutter mobile application that detects and classifies road damage in real time using a **MobileNetV2** deep learning model converted to **TensorFlow Lite**. The app runs entirely on-device — no internet connection required for detection.
 
@@ -13,6 +14,7 @@ A Flutter mobile application that detects and classifies road damage in real tim
 ---
 
 ## Features
+<!-- Some features, hindi pa nagagawa -->
 
 | Feature          | Description                                                 |
 | ---------------- | ----------------------------------------------------------- |
@@ -25,7 +27,8 @@ A Flutter mobile application that detects and classifies road damage in real tim
 
 ---
 
-## 🔍 Damage Classes
+##  Damage Classes
+<!-- Having trouble sa No Damage Class -->
 
 | Class            | Color     | Description                                       |
 | ---------------- | --------- | ------------------------------------------------- |
@@ -38,6 +41,7 @@ A Flutter mobile application that detects and classifies road damage in real tim
 ## System Design
 
 ### DFD Level 0 — Context Diagram
+<!-- Hindi pa po final na DFD -->
 
 ```
                     ┌─────────────────────────┐
@@ -49,6 +53,7 @@ Camera/Sensor ─────▶│   Road Damage Detection │─────�
 ```
 
 ### DFD Level 1 — Internal Processes
+<!-- Hindi pa po final na DFD -->
 
 ```
 P1 Image Capture ──▶ P2 Image Preprocessing ──▶ P3 Damage Classification ──▶ P4 Result Display
@@ -71,7 +76,7 @@ P1 Image Capture ──▶ P2 Image Preprocessing ──▶ P3 Damage Classifica
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology      | Purpose                                  |
 | --------------- | ---------------------------------------- |
@@ -161,13 +166,15 @@ road_damage_app/
 ---
 
 ## Group Members
+<!-- I will fill this sa supeeer final -->
 
-| Name     | Role                             |
-| -------- | -------------------------------- |
-| Member 1 | Introduction & Problem Statement |
-| Member 2 | Features & App Walkthrough       |
-| Member 3 | Technical Implementation         |
-| Member 4 | Challenges & Conclusion          |
+
+| Name               | Role                   |
+| ------------------ | ---------------------- |
+| Adelia C. Balingao |                        |
+| John Paul Curibang |                        |
+| Jorel Balacano     |                        |
+| Shela Mae Angeles  |                        |
 
 ---
 
