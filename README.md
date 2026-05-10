@@ -43,26 +43,12 @@ A Flutter mobile application that detects and classifies road damage in real tim
 
 ## System Design
 
-### DFD Level 0 — Context Diagram
-<!-- Hindi pa po final na DFD -->
-
-```
-                    ┌─────────────────────────┐
-                    │                         │
-Camera/Sensor ─────▶│   Road Damage Detection │─────▶ Damage Records DB
-                    │         System          │
-     User ─────────▶│                         │─────▶ User (Result)
-                    └─────────────────────────┘
-```
 
 ### DFD Level 1 — Internal Processes
-<!-- Hindi pa po final na DFD -->
 
 ```
-P1 Image Capture ──▶ P2 Image Preprocessing ──▶ P3 Damage Classification ──▶ P4 Result Display
-                              │                            │
-                              ▼                            ▼
-                      D1 Image Storage            D2 Damage Records
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ffd49a62-491e-4fae-879e-74e3e1314094" />
+
 ```
 
 **Processes:**
