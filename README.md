@@ -6,8 +6,7 @@ A Flutter mobile application that detects and classifies road damage in real tim
 ---
 
 ## Screenshots
-
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/83dd0a66-0f10-436e-bc41-448c81a30d63" /> <img width="1080" height="2207" alt="image" src="https://github.com/user-attachments/assets/d849a19e-653b-4112-b92c-b9ea5571132a" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/d849a19e-653b-4112-b92c-b9ea5571132a" />
 
 
 
