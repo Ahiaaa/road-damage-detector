@@ -46,7 +46,7 @@ A Flutter mobile application that detects and classifies road damage in real tim
 
 ### DFD Level 1 — Internal Processes
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ffd49a62-491e-4fae-879e-74e3e1314094" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ffd49a62-491e-4fae-879e-74e3e1314094" />
 
 ```
 
